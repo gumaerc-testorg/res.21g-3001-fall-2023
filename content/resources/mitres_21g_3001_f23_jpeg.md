@@ -7,8 +7,8 @@ file_size: 10546
 file_type: image/jpeg
 image_metadata:
   caption: "Engraving of Madame de La Fayette (1634\u20131693), the author of *La\
-    \ Princesse de Cl\xE8ves*. (Image is in the public domain. Source: [Wikimedia\
-    \ Commons](https://commons.wikimedia.org/wiki/File:Madame_de_La_Fayette.png).)"
+    \ Princesse de Cl\xE8ves*. (Image is in the public domain. Source: {{% resource_link\
+    \ \"456e81a6-0788-4ac9-86d1-6d2201e6839a\" \"Wikimedia Commons\" %}}.)"
   credit: ''
   image-alt: Black and white engraving of a woman in a relaxed pose.
 learning_resource_types: []
